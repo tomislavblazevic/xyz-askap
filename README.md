@@ -1,5 +1,6 @@
 # xyz-askap
 askap radar and x-ray sonification &lt;simulacija, multichannel &amp; realdata>  
+This code is about the sonification of a distant phenomenon in space, which is broadcasting a signal in both usual and X-ray spectra (askap_j1832) for the first time in history.
 How to do it:
 
 Find the file:
